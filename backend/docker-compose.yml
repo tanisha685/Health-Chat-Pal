@@ -1,0 +1,36 @@
+services:
+  fastapi-app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - QDRANT_URL=http://qdrant:6333
+      - PYTHONPATH=/app
+      - SESSION_STORAGE_PATH=/app/data/sessions
+      - SESSION_MAX_AGE_HOURS=24
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - GROQ_MODEL=${GROQ_MODEL}
+      - OPENWEATHER_API_KEY=${OPENWEATHER_API_KEY}
+
+      
+    volumes:
+      - ./app:/app/app
+      - ./app/data:/app/data
+      - ./data/sessions:/app/data/sessions
+      - ./vector_data:/app/vector_data
+      - ./logs:/app/logs
+      - ./cache:/app/cache
+    depends_on:
+      - qdrant
+    restart: unless-stopped
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: unless-stopped
+
+volumes:
+  qdrant_data:
