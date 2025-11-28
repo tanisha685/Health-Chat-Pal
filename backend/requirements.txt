@@ -1,0 +1,40 @@
+# Core Web Framework
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+aiofiles
+
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+langchain-qdrant
+
+# AI, Machine Learning & Embeddings
+sentence-transformers
+transformers
+torch
+scikit-learn
+groq
+
+
+# Vector Database
+qdrant-client
+faiss-cpu
+
+# Data Handling & Utilities
+pandas
+numpy
+requests
+beautifulsoup4
+python-dotenv
+loguru
+
+# Document Loaders
+python-docx
+pypdf
