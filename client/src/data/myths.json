@@ -1,0 +1,232 @@
+[
+  {
+    "category": "Fever",
+    "myth": "You should not bathe during fever.",
+    "fact": "A lukewarm bath helps reduce body temperature and provides comfort.",
+    "hindiMyth": "बुखार में नहाना नहीं चाहिए।",
+    "hindiFact": "हल्के गुनगुने पानी से नहाने से बुखार कम करने में मदद मिलती है।"
+  },
+  {
+    "category": "Cold & Cough",
+    "myth": "Eating ice cream causes cold.",
+    "fact": "Cold is caused by viruses, not cold foods.",
+    "hindiMyth": "ठंड लगना आइसक्रीम खाने से होता है।",
+    "hindiFact": "जुकाम वायरस के कारण होता है, ठंडी चीज़ें खाने से नहीं।"
+  },
+
+  {
+    "category": "Vaccines",
+    "myth": "Vaccines weaken the immune system.",
+    "fact": "Vaccines train the immune system to fight diseases better.",
+    "hindiMyth": "टीके इम्यून सिस्टम को कमजोर करते हैं।",
+    "hindiFact": "टीके इम्यून सिस्टम को बीमारियों से बचाने की क्षमता बढ़ाते हैं।"
+  },
+
+  {
+    "category": "Diabetes",
+    "myth": "Diabetes happens only by eating sweets.",
+    "fact": "Genetics, lifestyle, obesity and insulin resistance cause diabetes.",
+    "hindiMyth": "डायबिटीज़ सिर्फ मिठाई खाने से होती है।",
+    "hindiFact": "डायबिटीज़ के कारण अनुवांशिकता, जीवनशैली और इंसुलिन रेजिस्टेंस हैं।"
+  },
+
+  {
+    "category": "Heart Health",
+    "myth": "Heart attacks happen only in older people.",
+    "fact": "Young adults can also get heart attacks due to stress and lifestyle.",
+    "hindiMyth": "दिल का दौरा सिर्फ बुजुर्गों को पड़ता है।",
+    "hindiFact": "तनाव, जीवनशैली और आनुवांशिकता के कारण युवा भी हार्ट अटैक का शिकार हो सकते हैं।"
+  },
+
+  {
+    "category": "Pregnancy",
+    "myth": "Eating papaya causes miscarriage.",
+    "fact": "Ripe papaya is safe in moderation; only raw papaya has compounds that may affect hormones.",
+    "hindiMyth": "पपीता खाने से गर्भपात हो जाता है।",
+    "hindiFact": "पका पपीता सुरक्षित है, केवल कच्चे पपीते में ऐसे तत्व होते हैं जो हॉर्मोन पर असर कर सकते हैं।"
+  },
+
+  {
+    "category": "Pregnancy",
+    "myth": "You must eat for two during pregnancy.",
+    "fact": "You need only small extra nutrition, not double portions.",
+    "hindiMyth": "प्रेग्नेंसी में दो लोगों जितना खाना चाहिए।",
+    "hindiFact": "केवल थोड़ी अतिरिक्त पोषण की ज़रूरत होती है, दोगुना खाना नहीं।"
+  },
+
+  {
+    "category": "Skincare",
+    "myth": "Fairness creams make skin permanently fair.",
+    "fact": "Such creams only lighten temporarily and may damage skin long-term.",
+    "hindiMyth": "फेयरनेस क्रीम से त्वचा हमेशा के लिए गोरी हो जाती है।",
+    "hindiFact": "ये क्रीम केवल अस्थायी असर देती हैं और त्वचा को नुकसान पहुंचा सकती हैं।"
+  },
+
+  {
+    "category": "Hair",
+    "myth": "Oiling stops hair fall permanently.",
+    "fact": "Oiling reduces dryness but cannot stop hormonal or genetic hair fall.",
+    "hindiMyth": "तेल लगाने से हमेशा के लिए बाल गिरना बंद हो जाता है।",
+    "hindiFact": "तेल केवल सूखापन कम करता है, आनुवंशिक बाल झड़ना इससे नहीं रुकता।"
+  },
+
+  {
+    "category": "Digestion",
+    "myth": "Drinking water immediately after meals causes indigestion.",
+    "fact": "There is no scientific evidence; water actually helps digestion.",
+    "hindiMyth": "खाने के तुरंत बाद पानी पीने से पाचन खराब होता है।",
+    "hindiFact": "ऐसा कोई वैज्ञानिक प्रमाण नहीं है; पानी पाचन में सहायक है।"
+  },
+
+  {
+    "category": "Cold & Cough",
+    "myth": "Antibiotics cure viral colds.",
+    "fact": "Antibiotics work only on bacteria, not viruses.",
+    "hindiMyth": "एंटीबायोटिक दवाएं जुकाम ठीक कर देती हैं।",
+    "hindiFact": "एंटीबायोटिक केवल बैक्टीरिया पर असर करती हैं, वायरस पर नहीं।"
+  },
+
+  {
+    "category": "General Health",
+    "myth": "You must drink 8 glasses of water daily.",
+    "fact": "Hydration needs depend on climate, activity, and body weight.",
+    "hindiMyth": "रोज़ 8 ग्लास पानी ज़रूरी है।",
+    "hindiFact": "पानी की ज़रूरत व्यक्ति, मौसम और गतिविधि पर निर्भर करती है।"
+  },
+
+  {
+    "category": "Sexual Health",
+    "myth": "Masturbation causes weakness or infertility.",
+    "fact": "There is no scientific link between masturbation and weakness or infertility.",
+    "hindiMyth": "हस्तमैथुन से कमजोरी या बांझपन हो जाता है।",
+    "hindiFact": "हस्तमैथुन और कमजोरी/बांझपन के बीच कोई वैज्ञानिक संबंध नहीं है।"
+  },
+
+  {
+    "category": "Child Health",
+    "myth": "Teething causes fever in babies.",
+    "fact": "Teething may cause irritation, not fever. Fever means infection.",
+    "hindiMyth": "दांत निकलते समय बच्चों को बुखार आता है।",
+    "hindiFact": "दांत निकलने पर जलन होती है, बुखार बीमारी का संकेत होता है।"
+  },
+
+  {
+    "category": "Diet",
+    "myth": "Bananas cause cold.",
+    "fact": "Bananas do not cause cold; they are nutritious and cooling.",
+    "hindiMyth": "केला खाने से जुकाम हो जाता है।",
+    "hindiFact": "केला जुकाम नहीं करता; यह पौष्टिक और ठंडक देने वाला फल है।"
+  },
+
+  {
+    "category": "Eyesight",
+    "myth": "Watching TV from close distance damages eyes.",
+    "fact": "It strains eyes but does not cause permanent damage.",
+    "hindiMyth": "टीवी पास से देखने से आंखें खराब हो जाती हैं।",
+    "hindiFact": "इससे केवल आंखों पर तनाव पड़ता है, स्थायी नुकसान नहीं होता।"
+  },
+
+  {
+    "category": "Women’s Health",
+    "myth": "Periods stop when a girl touches pickle.",
+    "fact": "Menstruation is biological and not affected by food items.",
+    "hindiMyth": "पीरियड्स में अचार छूने से अचार खराब हो जाता है।",
+    "hindiFact": "पीरियड्स और अचार का कोई संबंध नहीं है। यह सिर्फ मिथक है।"
+  },
+
+  {
+    "category": "Heart Health",
+    "myth": "Only chest pain indicates a heart attack.",
+    "fact": "Symptoms can include nausea, jaw pain, back pain, sweating and breathlessness.",
+    "hindiMyth": "हार्ट अटैक में सिर्फ सीने में दर्द होता है।",
+    "hindiFact": "मतली, जबड़े का दर्द, पीठ दर्द और सांस फूलना भी संकेत हो सकते हैं।"
+  },
+
+  {
+    "category": "Mental Health",
+    "myth": "Depression is just sadness.",
+    "fact": "Depression is a medical condition needing support and treatment.",
+    "hindiMyth": "डिप्रेशन सिर्फ दुखी होना है।",
+    "hindiFact": "डिप्रेशन एक चिकित्सीय स्थिति है, केवल दुख नहीं।"
+  },
+
+  {
+    "category": "Senior Health",
+    "myth": "Memory loss is a normal part of aging.",
+    "fact": "Minor forgetfulness is normal, but significant memory loss may be medical.",
+    "hindiMyth": "बुढ़ापे में याददाश्त का चले जाना सामान्य है।",
+    "hindiFact": "हल्की भूल सामान्य है, पर अधिक भूल चिकित्सा कारण हो सकता है।"
+  }
+  ,
+  {
+  "category": "Blood & Oxygen",
+  "myth": "Eating jaggery boosts blood oxygen levels instantly.",
+  "hindiMyth": "गुड़ खाने से तुरंत खून में ऑक्सीजन बढ़ जाती है।",
+  "fact": "Jaggery has minerals but it does NOT increase oxygen levels. Only medical treatment and proper breathing improve oxygen saturation.",
+  "hindiFact": "गुड़ में खनिज होते हैं लेकिन यह ऑक्सीजन लेवल नहीं बढ़ाता। ऑक्सीजन बढ़ाने के लिए चिकित्सा उपचार और सही सांस लेने की जरूरत होती है।"
+},
+{
+  "category": "Skin Care",
+  "myth": "Toothpaste cures pimples overnight.",
+  "hindiMyth": "टूथपेस्ट लगाने से पिंपल रातों-रात गायब हो जाते हैं।",
+  "fact": "Toothpaste irritates the skin and can worsen acne. Dermatologists recommend salicylic acid or benzoyl peroxide instead.",
+  "hindiFact": "टूथपेस्ट त्वचा को नुकसान पहुंचाता है और पिंपल बढ़ सकता है। इसके बजाय सैलिसिलिक एसिड या बेंज़ॉयल पेरॉक्साइड बेहतर है।"
+},
+{
+  "category": "Cold & Flu",
+  "myth": "Sitting under a fan when you're sweating causes pneumonia.",
+  "hindiMyth": "पसीना आने पर पंखा चलाने से निमोनिया हो जाता है।",
+  "fact": "Fans do NOT cause pneumonia. Pneumonia is caused by bacterial or viral infections.",
+  "hindiFact": "पंखा चलाने से निमोनिया नहीं होता। निमोनिया बैक्टीरिया या वायरस के कारण होता है।"
+},
+{
+  "category": "Nutrition",
+  "myth": "Bananas should not be eaten at night.",
+  "hindiMyth": "रात में केला नहीं खाना चाहिए।",
+  "fact": "Bananas are safe at any time of the day. They actually help digestion and improve sleep due to their magnesium and potassium.",
+  "hindiFact": "केला कभी भी खाया जा सकता है। यह पाचन सुधारता है और मैग्नीशियम-पोटैशियम की वजह से नींद बेहतर करता है।"
+},
+{
+  "category": "Women's Health",
+  "myth": "Women should not wash their hair during periods.",
+  "hindiMyth": "पीरियड्स के दौरान बाल नहीं धोने चाहिए।",
+  "fact": "There is NO medical risk in washing hair during periods. Hygiene actually makes you feel better.",
+  "hindiFact": "पीरियड्स में बाल धोने से कोई नुकसान नहीं होता। साफ-सफाई रखने से आप बेहतर महसूस करती हैं।"
+},
+{
+  "category": "Heart Health",
+  "myth": "Heart attacks only happen to older people.",
+  "hindiMyth": "दिल का दौरा सिर्फ बुजुर्गों को पड़ता है।",
+  "fact": "Unhealthy lifestyle and stress can cause heart attacks even in young people.",
+  "hindiFact": "गलत लाइफस्टाइल और तनाव के कारण युवा लोगों को भी हार्ट अटैक हो सकता है।"
+},
+{
+  "category": "Fever",
+  "myth": "If fever keeps coming back, taking antibiotics fixes it.",
+  "hindiMyth": "बार-बार बुखार आए तो एंटीबायोटिक लेना जरूरी है।",
+  "fact": "Most fevers are viral and do NOT need antibiotics. Unnecessary antibiotics make bacteria resistant.",
+  "hindiFact": "ज्यादातर बुखार वायरल होते हैं और एंटीबायोटिक की जरूरत नहीं होती। गलत एंटीबायोटिक से बैक्टीरिया मजबूत हो जाता है।"
+},
+{
+  "category": "Hair",
+  "myth": "Shaving your hair makes it grow back thicker.",
+  "hindiMyth": "सिर के बाल शेव करने से बाल मोटे उगते हैं।",
+  "fact": "Shaving does NOT affect hair thickness. It only gives the appearance of thicker hair because of blunt edges.",
+  "hindiFact": "शेविंग से बाल मोटे नहीं होते। केवल blunt edge की वजह से मोटे लगते हैं।"
+},
+{
+  "category": "Vaccines",
+  "myth": "Vaccines cause infertility.",
+  "hindiMyth": "टीके लगवाने से बांझपन हो जाता है।",
+  "fact": "Vaccines do NOT affect fertility. This myth has been scientifically disproven worldwide.",
+  "hindiFact": "टीके से बांझपन नहीं होता। यह मिथक वैज्ञानिक रूप से गलत साबित हुआ है।"
+},
+{
+  "category": "Water & Digestion",
+  "myth": "Drinking water immediately after meals causes fat gain.",
+  "hindiMyth": "खाना खाने के तुरंत बाद पानी पीने से पेट बाहर निकल आता है।",
+  "fact": "Water does NOT cause fat gain. It actually helps digestion and metabolism.",
+  "hindiFact": "पानी वजन नहीं बढ़ाता। यह पाचन और मेटाबॉलिज़्म को सुधारता है।"
+}
+
+]
